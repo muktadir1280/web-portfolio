@@ -23,6 +23,8 @@ p{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    display: flex;
+    
 }
 section{
     height: 500px;
@@ -48,6 +50,7 @@ section{
   background-image: url(images/dream-bg.png);
   background-repeat: no-repeat;
   background-position: right bottom;
+  display: flex;
 }
 h2{
     font-size: 40px;
